@@ -1,2 +1,2 @@
 # first-github-test
-ohis is my introduction to git and github
+This is my introduction to git and github
