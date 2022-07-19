@@ -3,6 +3,7 @@ CREATE TABLE Patients (
     Patient_name VARCHAR (20),
     Doctor_id INT,
     Drug_batch_number INT,
+    Doctors_plaza Varchar (20),
     Doctors_diagnosis VARCHAR (20)
 );
 
